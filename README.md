@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 06-05-25
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -25,18 +25,21 @@
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
   ###   ●	Clean your surface bed plate.
-  ###   ●	Load your filament into the required extruder as per the requirement.
+  ###   ●	Load your filament into the required extruder as per the requirement.9
   ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/user-attachments/assets/7a98d531-7e75-4f1c-aae9-5fe1b22d0352)
 
 ### Output:
+![image](https://github.com/user-attachments/assets/28666c44-bb62-4cfc-9d27-4ed1e3e09343)
 
 
-### Name:
-### Register Number:
+
+### Name:ASHIKA TR
+### Register Number:212224220011
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.

@@ -34,7 +34,8 @@
 ![image](https://github.com/user-attachments/assets/7a98d531-7e75-4f1c-aae9-5fe1b22d0352)
 
 ### Output:
-![image](https://github.com/user-attachments/assets/28666c44-bb62-4cfc-9d27-4ed1e3e09343)
+![Screenshot 2025-05-06 211419](https://github.com/user-attachments/assets/29101a68-06c8-4ff9-b26d-48c6b7b09f0d)
+
 
 
 

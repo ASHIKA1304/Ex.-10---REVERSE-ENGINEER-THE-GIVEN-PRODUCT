@@ -30,13 +30,11 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
-![image](https://github.com/user-attachments/assets/7a98d531-7e75-4f1c-aae9-5fe1b22d0352)
-
 ### Output:
-![Screenshot 2025-05-06 211419](https://github.com/user-attachments/assets/29101a68-06c8-4ff9-b26d-48c6b7b09f0d)
 
+![WhatsApp Image 2025-05-08 at 11 08 50_3ba18bb1](https://github.com/user-attachments/assets/8dca8589-038e-46c2-b59f-b93e1e82737f)
 
+![WhatsApp Image 2025-05-08 at 11 08 50_94ed3fd8](https://github.com/user-attachments/assets/a8057396-fb5b-49c0-aa4f-c0df9db72654)
 
 
 ### Name:ASHIKA TR
